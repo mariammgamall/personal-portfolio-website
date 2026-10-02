@@ -4,8 +4,18 @@
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![Bootstrap 5](https://img.shields.io/badge/Bootstrap_5-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
 [![JavaScript](https://img.shields.io/badge/JavaScript_ES6-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://personall-portfoliio-websiite.vercel.app/)
 
 > A modern, responsive, and feature-rich personal portfolio web application built for **Mariam Gamal** — *Computer Engineer & AI Developer*.
+>
+> 🌐 **Live Website**: [https://personall-portfoliio-websiite.vercel.app/](https://personall-portfoliio-websiite.vercel.app/)
+
+---
+
+## 🌐 Live Demo
+
+Explore the live application online:  
+👉 **[https://personall-portfoliio-websiite.vercel.app/](https://personall-portfoliio-websiite.vercel.app/)**
 
 ---
 
@@ -20,6 +30,7 @@
 
 ## 📌 Table of Contents
 
+- [🌐 Live Demo](#-live-demo)
 - [🎓 Academic Submission Context](#-academic-submission-context)
 - [✨ Features](#-features)
 - [📸 Application Screenshots](#-application-screenshots)
@@ -64,8 +75,8 @@
 
 ---
 
-### 4. 💻 Code Terminal & Skills in About Section
-*Interactive `mariam.js` code window displaying syntax highlighting and skills list.*
+### 4. ⚡ Technical Skills Section
+*Technical skills section showcasing core competencies, proficiency progress bars, and domain expertise.*
 ![04 - Skills in About Section](screenshots/04-skills-in-about-section.png)
 
 ---
